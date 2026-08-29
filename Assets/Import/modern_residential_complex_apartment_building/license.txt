@@ -1,0 +1,11 @@
+Model Information:
+* title:	modern residential complex apartment building
+* source:	https://sketchfab.com/3d-models/modern-residential-complex-apartment-building-f0ed2eeb6edf4b1a97a645d793b8a587
+* author:	saeedakbari (https://sketchfab.com/saakbary64)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "modern residential complex apartment building" (https://sketchfab.com/3d-models/modern-residential-complex-apartment-building-f0ed2eeb6edf4b1a97a645d793b8a587) by saeedakbari (https://sketchfab.com/saakbary64) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

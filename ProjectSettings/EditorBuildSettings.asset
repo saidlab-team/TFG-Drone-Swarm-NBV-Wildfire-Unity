@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/main.unity
+    guid: b14f762ca7a74da4f9ae94e509904518
+  - enabled: 1
+    path: Assets/citySimulation.unity
+    guid: 61a8bc2f3f2a7c847a21802d1100d3ef
+  - enabled: 1
+    path: Assets/forestSimulation.unity
+    guid: bc90efd75bf690b4b897d5f9127926e2
+  - enabled: 1
+    path: Assets/loadingScreen.unity
+    guid: b9319dd4329804c48a78d3ab15060ed0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d4729438e5c00fd4298acc58fec41cc7, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 734c90d0917923e40a2860f4ca5f4c04, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a786e045c71a63943a895afdfb15f418, type: 2}
+  m_UseUCBPForAssetBundles: 0
