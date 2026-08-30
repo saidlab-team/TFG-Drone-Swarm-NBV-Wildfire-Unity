@@ -16,6 +16,7 @@ El sistema simula, sobre un terreno geoespacial fiel a la realidad, la propagaci
 
 | <img src="docs/P1.gif" width="500"/> | <img src="docs/P2.gif" width="500"/> |
 
+[![Ver demo en vídeo](docs/thumbnail.png)](https://drive.google.com/file/d/1dM1WJNJgcFdWtEjHR9SZ5ZsTwRw_8f8Q/view?usp=sharing)
 ## Tecnologías
 
 - Unity 2022.3 LTS (C#)
