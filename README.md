@@ -14,7 +14,7 @@ El sistema simula, sobre un terreno geoespacial fiel a la realidad, la propagaci
 
 ## Demo
 
-| <img src="docs/P1.gif" width="240"/> | <img src="docs/images/P2.gif" width="240"/> |
+| <img src="docs/P1.gif" width="500"/> | <img src="docs/P2.gif" width="500"/> |
 
 ## Tecnologías
 
