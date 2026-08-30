@@ -12,13 +12,9 @@ Trabajo Fin de Grado — Grado en Ingeniería Informática, Universidad Carlos I
 
 El sistema simula, sobre un terreno geoespacial fiel a la realidad, la propagación de un incendio forestal mediante un autómata celular 3D, mientras una flota de UAVs coordinada mediante un algoritmo Next-Best-View explora el entorno, detecta el frente de fuego y maximiza la ganancia de información captada, minimizando la redundancia entre los agentes.
 
-Se evaluaron tres modos de operación (automático, mixto y manual) y cuatro tamaños de flota (1, 2, 4 y 6 drones) a través de 60 simulaciones experimentales.
-
 ## Demo
 
-| Modo automático | Modo mixto | Modo manual |
-|:---:|:---:|:---:|
-| <img src="docs/images/demo-automatico.gif" width="240"/> | <img src="docs/images/demo-mixto.gif" width="240"/> | <img src="docs/images/demo-manual.gif" width="240"/> |
+| <img src="docs/P1.gif" width="240"/> | <img src="docs/images/P2.gif" width="240"/> |
 
 ## Tecnologías
 
